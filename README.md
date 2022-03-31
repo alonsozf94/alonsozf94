@@ -1,6 +1,7 @@
 - 🐳 Hi, I’m Alonso! I'm a web developer who loves creating things and helping people.
 - 💻 I’m also interested in Game Dev, looking to get into mobile development in the future!
-- 🌱 I’m currently trying to get better at ReactJS and Godot
+- My preferred languages are JS and Python, Ruby is alright too and Golang is looking tempting recently 😆
+- 🌱 I’m currently trying to get better at ReactJS and Godot.
 - 🦾 I’m looking to collaborate on Game Projects and Game Jams
 - 📫 How to reach me
    - Gmail: alonsozf.94@gmail.com
