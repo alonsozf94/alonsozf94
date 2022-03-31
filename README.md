@@ -1,5 +1,5 @@
-- 🐳 Hi, I’m Alonso!
-- 💻 I’m interested in Game Dev and Web Dev, maybe get into some mobile development in the future too!
+- 🐳 Hi, I’m Alonso! I'm a web developer who loves creating things and helping people.
+- 💻 I’m also interested in Game Dev, looking to get into mobile development in the future!
 - 🌱 I’m currently trying to get better at ReactJS and Godot
 - 🦾 I’m looking to collaborate on Game Projects and Game Jams
 - 📫 How to reach me
