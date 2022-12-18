@@ -7,7 +7,7 @@
    - Linkedin: /in/alonsozevallosfournier94/
    - Twitter: @azf_94
 - 📚 You can see my game design work and early web development work here! https://www.behance.net/alonsozevallosf
-- I'm keen on ⚽ 🏋️‍ 🎵 🍺 🗺️ 🌳 🎮
+- I'm keen on ⚽ 🏋️‍ 🎵 🗺️ 🌳 🎮
 
 <!---
 alonsozf94/alonsozf94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
