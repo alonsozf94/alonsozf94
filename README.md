@@ -1,6 +1,5 @@
 - 🐳 Hi, I’m Alonso! I'm a game and software developer who loves creating things.
-- 👨‍💻 Looking to get into mobile development also!
-- 🌱 Learning Godot at the moment.
+- 🌱 Re-learning Unity and Javascript the moment.
 - 🦾 I’m looking to collaborate on Game Projects and Game Jams
 - 📫 How to reach me
    - Gmail: alonsozf.94@gmail.com
