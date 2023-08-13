@@ -1,4 +1,4 @@
-- 🐳 Hi, I’m Alonso! I'm a game and software developer who loves creating things.
+- 🐳 Game and software developer who loves creating things.
 - 🌱 Re-learning Unity and Javascript the moment.
 - 🦾 I’m looking to collaborate on Game Projects and Game Jams
 - 📫 How to reach me
