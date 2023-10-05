@@ -1,5 +1,5 @@
-- 🐳 Game and software developer who loves creating things.
-- 🌱 Re-learning Unity and Javascript the moment.
+- 🐳 Web developer, I love creating.
+- 🌱 Re-learning Javascript the moment through the Odin project.
 - 🦾 I’m looking to collaborate on Game Projects and Game Jams
 - 📫 How to reach me
    - Gmail: alonsozf.94@gmail.com
